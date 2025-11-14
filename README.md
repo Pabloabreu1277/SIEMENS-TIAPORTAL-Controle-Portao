@@ -22,3 +22,6 @@ Projeto: Sistema de Controle de Porta de Garagem:  Descrição: O sistema de con
  CPU 1214C DC/DC/DC - Work memory 100 KB; 24VDC power supply with DI14 x 24VDC SINK/SOURCE, DQ10 x 24VDC and AI2 on board; 6 high-speed counters and 4 pulse outputs on board; signal board expands on-board I/O;
  up to 3 communication modules for serial communication; up to 8 signal modules for I/O expansion; 0.04 ms/1000 instructions; PROFINET interface for programming, HMI and PLC to PLC communication
  
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="center" height="600" alt="coding-time" src="clpI_O.png">
