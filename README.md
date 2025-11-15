@@ -25,7 +25,8 @@ Projeto: Sistema de Controle de Porta de Garagem:  Descrição: O sistema de con
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="center" height="600" alt="coding-time" src="clpI_O.PNG">
+   
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="600" alt="coding-time" src="Portaoproj.GIF">
+    <img align="center" height="600" alt="coding-time" src="Portaoproj.gif">
 
